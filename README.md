@@ -1,7 +1,7 @@
 # React Weather App - ReactJS Projects
 
 ### Deployed over Github Pages 
-https://github.com/moulikuntrapaku/weatherApp.github.io
+https://github.com/moulikuntrapaku/weather-app
 
 ### APIs Used
 [Open Weather APIs](https://openweathermap.org/)
