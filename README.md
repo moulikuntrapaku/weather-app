@@ -27,7 +27,7 @@
 * Mail : Moulikuntrapaku@gmail.com
 * Website : [Mouli Kuntrapaku](https://moulikuntrapaku.github.io/Home.html)
 
-### How can I appreciate this repo? ###
+### How can you appreciate this repo? ###
 
 * By giving this repo a 🌟
 * By Following : [Mouli Mudhiraj](https://www.instagram.com/mouli_mudhiraj/) at Instagram
