@@ -21,7 +21,7 @@
 * `axios`
 * `react-scripts`
 
-### Whom do I talk to? ###
+### Whom do you talk to? ###
 
 * Instagram : [Mouli Mudhiraj](https://www.instagram.com/mouli_mudhiraj/)
 * Mail : Moulikuntrapaku@gmail.com
